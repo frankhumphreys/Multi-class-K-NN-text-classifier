@@ -1,5 +1,5 @@
 # Multi-class-K-NN-text-classifier
-Multi-class text classification system based on a k-Nearest Neighbour (k-NN) classifier
+Multi-class text classification system based on a k-Nearest Neighbour (k-NN) classifier. The challenge was to implement the classifier from scratch rather than relying heavily on libraries.
 
 ## INTRODUCTION
 
