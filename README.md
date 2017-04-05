@@ -10,18 +10,25 @@ For a given value of k, for each run, the results are outputted showing the accu
 ## SAMPLE OUTPUT
 
 Run	k(-nn)	Weight	P	  P_test	Test	Train	Accuracy	Avg.	Avg_all_runs
+
 1	  1	      False	  10	0	      184	  1655	93.48	
+
 1	  1	      False	  10	1	      184	  1655	94.02	
-1	  1	      False	  10	2	      184	  1655	95.11	
+
 ...
+
 1	  1	      False	  10	9	      183	  1656	96.72		  95.05
+
 2	  1	      False	  10	0	      184	  1655	97.28	
-2	  1	      False	  10	1	      184	  1655	92.39	
+
 ...
+
 2	  1	      False	  10	9	      183	  1656	95.63		  95.11
+
 3	  1	      False	  10	0	      184	  1655	95.65	
+
 ...
-...
+
 10	1	      False	  10	9	      183	  1656	92.90		  95.38	95.29
 
 In the output above Run is the run number (numbering starting at 1).
